@@ -1,25 +1,25 @@
-title: cvless
-description: Jekyll theme for a beautiful online CV
-baseurl: ""
-url: https://piazzai.github.io/cvless
+title: 
+description: "Karen's Holistic Dog Grooming"
+baseurl: "https://karensholisticdoggrooming.co.uk"
+url: https://karensholisticdoggrooming.co.uk
 
 theme: cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
+taglong: "Karen's Holistic Dog Grooming"
 tagshort: Jekyll theme
 cv: true
 
 # author settings
 author:
-  name: Place Holder
+  name: Karen Grant
   email: username@domain.com
 photo: assets/files/photo.jpg
-joblines:
-  - University of Jekyll
-  - Department of Themes
-  - 123 Main St, Anytown, USA
-address: Foobar Hall 1.23
+# joblines:
+#   - University of Jekyll
+#   - Department of Themes
+#   - 123 Main St, Anytown, USA
+# address: Foobar Hall 1.23
 phone: +1 234 567 890
 
 # profile links
