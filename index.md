@@ -5,10 +5,18 @@ title: Home
 
 # About
 
-This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
+Hi, I’m Karen — the heart and hands behind Karen’s Holistic Dog Grooming. My passion is creating a calm, gentle grooming experience where your dog feels safe, relaxed, and cared for every step of the way.
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+I believe grooming should never be stressful or frightening. That’s why I take the time to get to know each dog’s personality, using a patient, holistic approach that puts their comfort first. From soothing techniques to a peaceful environment, every detail is designed to make grooming a positive, tail‑wagging experience.
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
+->![A dog being groomed by Karen](/assets/files/dog1.jpg)<-
+
+# Booking
+
+You can book an appointment directly here
+
+***** add booking widget
+
+Call me on *****
 
 {% include archive.html %}
