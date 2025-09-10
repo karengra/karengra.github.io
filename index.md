@@ -15,7 +15,7 @@ I believe grooming should never be stressful or frightening. That’s why I take
 
 You can book an appointment directly here
 
-***** add booking widget
+{% include simplybook.html %}
 
 Call me on *****
 
