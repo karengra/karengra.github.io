@@ -3,7 +3,7 @@ description: "Karen's Holistic Dog Grooming"
 baseurl: "https://karensholisticdoggrooming.co.uk"
 url: https://karensholisticdoggrooming.co.uk
 
-theme: cvless
+remote_theme: cvless
 
 # site settings
 taglong: "Karen's Holistic Dog Grooming"
