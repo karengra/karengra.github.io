@@ -1,4 +1,4 @@
-title: cvless
+title: "Karen's Holistic Dog Grooming"
 description: "Karen's Holistic Dog Grooming"
 baseurl: "https://karensholisticdoggrooming.co.uk"
 url: https://karensholisticdoggrooming.co.uk
@@ -7,7 +7,7 @@ theme: cvless
 
 # site settings
 taglong: "Karen's Holistic Dog Grooming"
-tagshort: Jekyll theme
+tagshort: "Dog Grooming"
 cv: true
 
 # author settings
