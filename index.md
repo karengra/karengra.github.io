@@ -8,7 +8,7 @@ Hi, I’m Karen, the heart and hands behind Karen’s Holistic Dog Grooming. My 
 
 I believe grooming should never be stressful or frightening. That’s why I take the time to get to know each dog’s personality, using a patient, holistic approach that puts their comfort first. From soothing techniques to a peaceful environment, every detail is designed to make grooming a positive, tail‑wagging experience.
 
-![Lots of dogs with Karen](/assets/files/dogsdogsdogs.jpeg)
+![Lots of dogs with Karen](./assets/files/dogsdogsdogs.jpeg)
 
 # Booking
 
