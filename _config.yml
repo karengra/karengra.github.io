@@ -6,9 +6,9 @@ baseurl: ""
 url: https://karengra.github.io
 
 # site settings
-taglong: "Karen's Holistic Dog Grooming"
+taglong: "Karen grooms dogs"
 tagshort: "Dog Grooming"
-cv: true
+cv: false
 
 # author settings
 author:
