@@ -1,0 +1,9 @@
+/* Responsive site title using clamp() */
+.particles-title {
+  white-space: normal;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  font-size: clamp(1.4rem, 4vw, 2.5rem);
+  line-height: 1.2;
+  text-align: center;
+}
