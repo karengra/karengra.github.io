@@ -23,8 +23,8 @@ address: Foobar Hall 1.23
 phone: +1 234 567 890
 
 # profile links
-# profile:
-  # facebook: https://www.facebook.com/username
+profile:
+  facebook: https://www.facebook.com/username
   # x: https://x.com/username
   # mastodon: https://mastodon.social/@username
   # bluesky: https://bsky.app/profile/username.bsky.social
@@ -34,6 +34,7 @@ phone: +1 234 567 890
   # stackoverflow: https://stackoverflow.com/users/0000000/username
   # medium: https://medium.com/@username
   # github: https://github.com/karengra
+  cv: false
 
 # build settings
 permalink: pretty
