@@ -33,7 +33,7 @@ profile:
   # xing: https://www.xing.com/profile/username
   # stackoverflow: https://stackoverflow.com/users/0000000/username
   # medium: https://medium.com/@username
-  github: https://github.com/karengra
+  # github: https://github.com/karengra
 
 # build settings
 permalink: pretty
@@ -42,6 +42,7 @@ exclude:
   - README.md
   - Gemfile
   - vendor/
+  - cv.md
 
 plugins:
   - jekyll-feed
