@@ -14,7 +14,7 @@ cv: false
 author:
   name: Karen Grant
   email: karensholisticdoggrooming@outlook.com
-photo: assets/files/photo.jpg
+photo: /assets/files/photo.jpg
 joblines:
   - University of Jekyll
   - Department of Themes
