@@ -3,7 +3,7 @@
   white-space: normal;
   word-break: break-word;
   overflow-wrap: break-word;
-  font-size: clamp(2rem, 5vw, 4rem);
+  font-size: clamp(2rem, 4vw, 3.5rem);
   line-height: 2;
   text-align: center;
 }
