@@ -12,10 +12,12 @@ I believe grooming should never be stressful or frightening. That’s why I take
 
 # Booking
 
-You can book an appointment directly here
+You can book an appointment directly here:
+
 
 {% include simplybook.html %}
 
-Call me on 07721 643 177
+
+Feel free to call me on 07721 643 177 if you don't want to book via the website
 
 {% include archive.html %}
