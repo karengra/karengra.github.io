@@ -18,6 +18,6 @@ You can book an appointment directly here:
 {% include simplybook.html %}
 
 
-Feel free to call me on <span style="font-size: 1.5em;"><b>07721 643 177</b></span> if you don't want to book via the website
+Feel free to call me on <span style="font-size: 1.5em;"><b>07721 643 177</b></span> or email me at <span style="font-size: 1.5em;"><b>karensholisticdoggrooming@outlook.com</b></span> if you don't want to book via the website
 
 {% include archive.html %}
