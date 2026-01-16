@@ -10,6 +10,10 @@ I believe grooming should never be stressful or frightening. That’s why I take
 
 ![Lots of dogs with Karen](./assets/files/dogsdogsdogs.jpeg)
 
+# Gentle, patient grooming for dogs who need extra care.
+
+If your dog finds grooming difficult, you’re in the right place — I specialise in slow, compassionate care that helps even the most anxious dogs learn to enjoy grooming. Book a trial visit and we’ll take it one calm step at a time.
+
 # Booking
 
 You can book an appointment directly here:
