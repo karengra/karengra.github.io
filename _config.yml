@@ -15,11 +15,11 @@ author:
   email: karensholisticdoggrooming@outlook.com
 photo: /assets/files/photo.jpg
 joblines:
-  - University of Jekyll
-  - Department of Themes
-  - 123 Main St, Anytown, USA
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+  - Dog Grooming
+  - Ashcombe Park
+  - Weston-Super-Mare
+address: 18 Ringwood Grove Weston-Super-Mare
+phone: +44 07721643177
 
 # profile links
 profile:
@@ -27,7 +27,7 @@ profile:
   # x: https://x.com/username
   # mastodon: https://mastodon.social/@username
   # bluesky: https://bsky.app/profile/username.bsky.social
-  instagram: https://www.instagram.com/username
+  instagram: https://www.instagram.com/karensholisticdoggrooming
   # linkedin: https://www.linkedin.com/in/username
   # xing: https://www.xing.com/profile/username
   # stackoverflow: https://stackoverflow.com/users/0000000/username
