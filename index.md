@@ -12,16 +12,12 @@ I believe grooming should never be stressful or frightening. That’s why I take
 
 # Gentle, patient grooming for dogs who need extra care.
 
-If your dog finds grooming difficult, you’re in the right place — I specialise in slow, compassionate care that helps even the most anxious dogs learn to enjoy grooming. Book a trial visit and we’ll take it one calm step at a time.
+If your dog finds grooming difficult, you’re in the right place — I specialise in slow, compassionate care that helps even the most anxious dogs adapt. 
+
+We can try a free 15 minute meet and greet at the salon to acclimatise.
 
 # Booking
 
-You can book an appointment directly here:
-
-
-{% include simplybook.html %}
-
-
-Feel free to call me on <span style="font-size: 1.5em;"><b>07721 643 177</b></span> or email me at <span style="font-size: 1.5em;"><b>karensholisticdoggrooming@outlook.com</b></span> if you don't want to book via the website
+Feel free to call me on <span style="font-size: 1.5em;"><b>07721 643 177</b></span> or email me at <span style="font-size: 1.5em;"><b>karensholisticdoggrooming@outlook.com</b></span>.
 
 {% include archive.html %}
